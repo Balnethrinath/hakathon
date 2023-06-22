@@ -7,6 +7,8 @@
 
 [MSCS Dashboard](https://public.tableau.com/views/mscs_16874604511890/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+[https://public.tableau.com/views/mscs_16874604511890/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/mscs_16874604511890/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
 
 
